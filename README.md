@@ -26,6 +26,12 @@ A full-featured pizza ordering app built with **React**, **Redux Toolkit**, **Re
 - 💨 Tailwind CSS
 
 ---
+---
+## 🔗 Live Demo
+
+[Try the App](https://fast-react-pizza-c.netlify.app/)
+
+---
 
 ## 📦 Getting Started
 
